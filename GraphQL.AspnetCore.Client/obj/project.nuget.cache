@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7LmO0nE6M4NkYcpa2E823WbBSYnmZmrHCWDPcdtNhZc2ZnA6KPbVh4TpoAve0CX+rydXznQFhD9gbm5DhQQAGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Repo\\donet\\GraphQL\\Starting project\\GraphQLDotNetCore\\GraphQL.AspnetCore.Client\\GraphQL.AspnetCore.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\graphql.client\\3.2.0\\graphql.client.3.2.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\graphql.client.abstractions\\3.2.0\\graphql.client.abstractions.3.2.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\graphql.client.abstractions.websocket\\3.2.0\\graphql.client.abstractions.websocket.3.2.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\3.2.0\\graphql.client.serializer.newtonsoft.3.2.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\graphql.primitives\\3.2.0\\graphql.primitives.3.2.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GraphQL.AspnetCore.Client
+build_property.ProjectDir = C:\Workspace\Repo\donet\GraphQL\Starting project\GraphQLDotNetCore\GraphQL.AspnetCore.Client\
